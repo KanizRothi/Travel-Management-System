@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin_dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Billing_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bkash_Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bus_Booking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Flights_Booking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Help.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hotels_Booking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hotel_Manage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Launch_Booking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manage_BUS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manage_Flights.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manage_Launch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Manage_Train.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rating.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registered_Accounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sales_Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Trains_Booking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserId_Paschange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="user_account_settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User_dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User_name_change.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User_registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Vouchers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
